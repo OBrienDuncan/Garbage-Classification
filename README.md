@@ -4,3 +4,5 @@ Download the respective models and datasets here: https://uwoca-my.sharepoint.co
 Make sure every file is in the same directory to replicate exactly how the notebook was executed
 
 The main code with models, results, tables, and graphs is found DS3000ProjectFinal.ipynb in the main branch 
+
+To get reproducibility in the notebook, observe 'howfilesshouldbeplaced' in the main branch
